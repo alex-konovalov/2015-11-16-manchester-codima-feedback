@@ -139,3 +139,29 @@ maintain several lessons om Make automating different processes, but I
 would be interested in having a version of this for the LaTeX paper
 (with images, multiple files, data files that feed into the paper,
 bibliography etc.)
+
+## General remarks (LP):
+
+For future room setups:
+
+* Are there enough power supplies for attendees to run laptops? We can't assume all turn up fully charged or will last the day. Having only one socket at the back could have been more serious if we didn't have Aleksandra as a local SSI representative.
+
+* [Be Prepared!](http://members.scouts.org.uk/supportresources/761/promise-law-and-motto) Always carry spare cables! The room's SVGA cable was faulty and cast a yellow tone on everything. Happily, one of us had a spare (I've had similar issues at University of Dundee…)
+
+* We weren't allowed to put up direction signs/advertising in the main building "due to Health and Safety" - co-ordination with the host site could clarify.
+
+More generally:
+
+* Agreed about Mac keyboards and the '#' symbol. This is a particular problem when using `Emacs`, as the key combination can have other meanings. Using `nano` means we don't have to think about it, but if someone insists on `Emacs` it could come up.
+
+* I should have noticed the `Make` lessons were dependent on working Python, and realised that this ought to have been a requirement for pre-installation on the course page. That cost us around 20min of the lesson. Next time I'll remember, but we should flag this up on the `make` lesson repo.
+
+* The `make` installation fail was out of our hands, but insisting that students check that their copy of `make` works before the course could possibly flag up issues ahead of time. We lost quite a bit of the lesson to this, and it was disruptive. Again, it's a consideration we could bring up on the lesson repo.
+
+* As the `make` lesson doesn't *need* to depend on Python (or any other complex installation), but does need to depend on the shell, maybe a shell script would be a better choice for the example than a Python script. I think that precompiled binaries wouldn't be practical, and that Perl/Java/whatever code would have similar dependency issues - shell seems to be the only requirement that stands out. It might make the visualisation step difficult, though - but there are ways to do ASCII horizontal bar graphs in the shell.
+
+* I thought that in the `make` lesson I had to go into the audience as a helper a bit too often, and this was distracting from the flow (though it stopped me racing ahead, there were a couple of questions that were tangential to the topic: e.g. "How do I record my terminal input and output?", and which me addressing them would have disadvantaged the class - that's the kind of question a helper can answer via EtherPad)- 1/2 more available helpers would have been useful in the afternoon.
+
+* A couple of points raised by helpers in the `make` session were to be covered later in the session. I realise the intent is to be helpful, but the extra cognitive load involved in flagging up items and concepts that will be discussed later, without actually discussing them, can be distracting. It also makes the flow a bit less smooth. That could be reduced if helpers were familiar with the running order of the lesson beforehand, and knew what was coming up later. 
+
+* Compared to other SWC workshops, the EtherPad was very lightly-used in Monday's session. I don't know if this is because the students didn't like it, or didn't find it useful, or weren't reminded of it. Previously it's been good for helpers to flag up other concepts to students, and for the students who are a bit ahead to see other relevant links out from the lesson, without getting into conversations and distracting others. Can we make more of the EtherPad?
