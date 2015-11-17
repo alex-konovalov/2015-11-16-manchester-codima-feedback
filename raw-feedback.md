@@ -2,7 +2,7 @@
 
 This the text from the sticky notes, without alterations.
 
-## Morning session: Shell lesson, instructor Kwasi Kwakwa
+## Monday morning session: Shell lesson, instructor Kwasi Kwakwa
 
 ### Green notes:
 
@@ -76,7 +76,7 @@ caused all this trauma
 others. I just expected something about bash - scripts, etc.
 
 
-##Afternoon session: Make lesson, instructor Leighton Pritchard
+## Monday afternoon session: Make lesson, instructor Leighton Pritchard
 
 ### Green notes:
 
@@ -114,6 +114,72 @@ just advise not to use it. It's just too much of a distraction.
 
 * It seems like no one tested how `make` works on Windows.
 Troubleshooting took a **long** time.
+
+
+## Tuesday morning session: Git lesson, instructors Kwasi Kwakwa and Leighton Pritchard
+
+### Green notes:
+
+* It is great thanks a lot
+
+* Terrific
+
+* Straightforward and Interactive
+
+* Twas fun; good teaching & communication skills; learnt how to do collaboration
+
+* Very vell explained
+
+* Good detail + I felt all my questions were answered
+
+* Good: inspired me to use github
+
+* This is GREEN. And well labeled so. Great user <unclear word> on GitHub
+
+### Red notes:
+
+* Please allow more time for longer commands
+
+* Too much background noise to be able to fully concentrate on what the
+speaker was saying
+
+* Maybe it is a good idea to explain more the branches theory
+
+* Sometimes went a bit fast. Maybe a better format is tutorial notes
+online & Q and A in the room
+
+* These are clearly PINK stickies! :) A lot of conversations during
+lesson. Hard to hear.
+
+
+## Tuesday afternoon session: GAP lesson, instructor Alexander Konovalov
+
+I forgot to ask for stickies at the right moment and received only one green
+note: "Overall session was excellent! Especially having some quiz meanwhile!".
+But GAP lesson will be continued on Wednesday, so we will hopefully hear more.
+
+I had one hour and covered the
+[1st part of the lesson](http://alex-konovalov.github.io/gap-lesson/01-command-line.html)
+almost completely. I had to shorten list operations just demonstrating them on
+screen without typing, and also omit `WriteGapIniFile` which I have to show tomorrow
+instead.
+
+I've connected to a remote VM running Windows to show some customisations of the
+shell, and that seemed to be useful. `SetHelpViewer("browser")` caused some problems
+- while it was useful to be informed about them, for the 1st lesson it's better to
+use the text-only help to ensure that the same output is seen on all operating
+systems.
+
+Another remark is that the instructor should start GAP with `-r` options or maybe
+in a dedicated user account to avoid interfering with own GAP settings e.g.
+locally installed packages and other content of `.gap` directory.
+
+There were interesting questions on EtherPad at
+http://pad.software-carpentry.org/2015-11-16-manchester-codima,
+and questions arising in the audience were helped effectively by
+Nick and Michael. There were two quizzes answered on EtherPad
+(as Dima pointed out, the quesiton on `Filtered( Partitions(10), x -> 5 in x);`
+could be formulated better) and one final challenge.
 
 
 ## General remarks (AK):
@@ -162,6 +228,6 @@ More generally:
 
 * I thought that in the `make` lesson I had to go into the audience as a helper a bit too often, and this was distracting from the flow (though it stopped me racing ahead, there were a couple of questions that were tangential to the topic: e.g. "How do I record my terminal input and output?", and which me addressing them would have disadvantaged the class - that's the kind of question a helper can answer via EtherPad)- 1/2 more available helpers would have been useful in the afternoon.
 
-* A couple of points raised by helpers in the `make` session were to be covered later in the session. I realise the intent is to be helpful, but the extra cognitive load involved in flagging up items and concepts that will be discussed later, without actually discussing them, can be distracting. It also makes the flow a bit less smooth. That could be reduced if helpers were familiar with the running order of the lesson beforehand, and knew what was coming up later. 
+* A couple of points raised by helpers in the `make` session were to be covered later in the session. I realise the intent is to be helpful, but the extra cognitive load involved in flagging up items and concepts that will be discussed later, without actually discussing them, can be distracting. It also makes the flow a bit less smooth. That could be reduced if helpers were familiar with the running order of the lesson beforehand, and knew what was coming up later.
 
 * Compared to other SWC workshops, the EtherPad was very lightly-used in Monday's session. I don't know if this is because the students didn't like it, or didn't find it useful, or weren't reminded of it. Previously it's been good for helpers to flag up other concepts to students, and for the students who are a bit ahead to see other relevant links out from the lesson, without getting into conversations and distracting others. Can we make more of the EtherPad?
