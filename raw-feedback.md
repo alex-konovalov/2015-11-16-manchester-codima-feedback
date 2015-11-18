@@ -182,6 +182,93 @@ Nick and Michael. There were two quizzes answered on EtherPad
 could be formulated better) and one final challenge.
 
 
+## Wednesday morning session: GAP lesson, instructor Alexander Konovalov
+
+### Green notes:
+
+* Examples great, well presented, good pace
+
+* Good idea to teach attributes
+
+* Good. I have learned new stuff!
+
+* The lesson has so many examples. That is quite good.
+
+* I found GAP sessions very useful! Fast paced, but manageable (any faster
+  would be too fast)
+
+* Was good to hear about advanced features like methods + attributes.
+
+* Very well-explained.
+
+* Thanks a lot we looking for more interesting stuff
+
+* The GAP lecture was good. Useful to me (and old user) as I learnt few things
+like the .tst file et cetera.
+
+* Learning about attributes was helpful.
+
+* Good: meaningful examples
+
+* It was cool to be looking at a research style problem
+
+* Lots of useful "good practise" stuff e.g. using functions + test files
+
+* Debugging e.g. in functions was good to learn
+
+* Good use of exercises
+
+* Useful links about more efficient ways of doing things, manuals, etc.
+
+
+### Red notes:
+
+1. Use of dual screens:
+
+* Would be good if the display was split screen so we could view the .g files
+being edited in nano and what was going in the terminal at the same time.
+
+* Jumping between the nano window and GAP window makes it hard to keep up.
+Is it possible to have both displayed simultaneously?
+
+* Multiple projector setup would be useful for code/GAP screens
+
+* It would be good to have a 2nd screen showing <unclear word> commands.
+
+2. Pace of the lesson:
+
+* Sometimes it was hard to keep up with what was happening because
+things were taken off the screen too quickly.
+
+* Possible improvement: slightly slower pace when students are expected to
+repeat the exercise. It is difficult to type in commands and listen to the
+discussion at the same time.
+
+* Quite fast-paced
+
+* The pace was a bit fast compared for the first few days for someone
+who has not used GAP before or programmed much in general. But I will manage
+with the links to the manual and CoDiMa web links.
+
+3. Content of the lesson:
+
+* Would be good to hear about what GAP offers to someone interested in
+computation but not specifically group theory.
+
+* What about the algorithmic part? Maybe some well-known algorithms etc?
+
+4. Other:
+
+* Main parts would be helpful on board to refer to.
+
+* More use of EtherPad, e.g. put scripts for functions on there
+
+* Perhaps the files we write could be available online in case someone
+falls behind or is slow at typing
+
+* Too many feedback requests!!!
+
+
 ## General remarks (AK):
 
 * Next time, check that the Eventrbite form has a field for dietary
