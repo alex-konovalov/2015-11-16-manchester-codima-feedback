@@ -208,6 +208,8 @@ bibliography etc.)
 
 ## General remarks (LP):
 
+### Make
+
 For future room setups:
 
 * Are there enough power supplies for attendees to run laptops? We can't assume all turn up fully charged or will last the day. Having only one socket at the back could have been more serious if we didn't have Aleksandra as a local SSI representative.
@@ -231,3 +233,22 @@ More generally:
 * A couple of points raised by helpers in the `make` session were to be covered later in the session. I realise the intent is to be helpful, but the extra cognitive load involved in flagging up items and concepts that will be discussed later, without actually discussing them, can be distracting. It also makes the flow a bit less smooth. That could be reduced if helpers were familiar with the running order of the lesson beforehand, and knew what was coming up later.
 
 * Compared to other SWC workshops, the EtherPad was very lightly-used in Monday's session. I don't know if this is because the students didn't like it, or didn't find it useful, or weren't reminded of it. Previously it's been good for helpers to flag up other concepts to students, and for the students who are a bit ahead to see other relevant links out from the lesson, without getting into conversations and distracting others. Can we make more of the EtherPad?
+
+### Git
+
+* I hadn't prepared as well for the Git lesson as for the Make lesson, and I think that showed, especially early on. After swapping over from Kwasi earlier in the course material than we intended, I took a while to get into my stride with the Ignoring Files/`.gitignore` section.
+
+* I'm not sure switching instructors during Git is the best idea - I think that there's more potential for teaching slightly different mental models of how Git works, that way.
+
+* I found that the noise levels in the classroom were problematic during the collaboration part of the session. I wasn't sure if this was because people were collaborating, chatting because they were already ahead, or whether there was something else going on. It took me a while to get everyone's attention on more than one occasion, and some of the noisy conversations weren't entirely course-related. One in particular was trying to sort out problems due to a non-standard setup (one student was logging in to a remote Linux server, which made for some problems)
+
+* After the session, I considered that there's a lot of value to be had in setting up a collaboration scenario that runs consistently through the entire session, and is specific to the students' own interests, wherever possible. In this case, that could have been a LaTeX document collaboration (something I've done myself in Git).
+
+* Though we didn't get as far as the Open Science section, the difference between the standard Mathematics publication/open peer review path and that described as 'default' is significant, and might make that lesson less relevant.
+
+* We had an odd number of students, for which the natural way to cope is - I now think - for the instructor to pair up with the one left over. We tried having a group of three, and I tagged on with another pair to make a second group of three. That caused some confusion, as we (inevitably) ran into Git conflicts in practice earlier than was in the lesson plan.
+
+* In the end, for Git I felt I was saved by the strength of the lesson plan. It carves a sound path through the central concepts, so it's hard to go too wrong as an instructor. 
+
+
+
