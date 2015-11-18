@@ -189,7 +189,7 @@ requirements. This time, we were asking to indicated them in a separate
 email.
 
 * Check if this is suggested somewhere in instructor's guide: how to
-enter `#` sign on a British keyboard?
+enter `#` sign on a British Mac keyboard?
 
 * Next time, check that the whiteboard is both wide and not obstructed
 by the screen. On Monday, it satisfied only the 1st of these two conditions.
@@ -231,3 +231,14 @@ More generally:
 * A couple of points raised by helpers in the `make` session were to be covered later in the session. I realise the intent is to be helpful, but the extra cognitive load involved in flagging up items and concepts that will be discussed later, without actually discussing them, can be distracting. It also makes the flow a bit less smooth. That could be reduced if helpers were familiar with the running order of the lesson beforehand, and knew what was coming up later.
 
 * Compared to other SWC workshops, the EtherPad was very lightly-used in Monday's session. I don't know if this is because the students didn't like it, or didn't find it useful, or weren't reminded of it. Previously it's been good for helpers to flag up other concepts to students, and for the students who are a bit ahead to see other relevant links out from the lesson, without getting into conversations and distracting others. Can we make more of the EtherPad?
+
+## General Remarks(KK):
+* Note to self, check laptop beforehand and make sure that it still has a working VGA port. We lost a bit of time to that
+
+* An unforseen consequence of having students pair up for the `git` section was them consulting each other and talking quite a bit. Not necessarily a bad thing, since we like peer learning, but it also got in the way of the lesson flow.
+
+* Just to emphasize, make sure that there has been some thought put into powering all the laptops people will bring along. Also internet access. Luckily there were plans in place this time.
+
+* `make` being broken in the most recent version of gitbash was unforseen, but still slowed down the class quite a bit and meant that some of the students did not get hands-on experience  
+
+* The `shell` lesson went a lot slower than expected. There seems to be an even split between people who liked the pace and people who didn't, so maybe my judgement of the pace wasn't too far off, but it still meant I left a lot of stuff undone. It might just be a consequence of the wide spread of abilities we had in the room
