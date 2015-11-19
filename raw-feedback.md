@@ -223,7 +223,7 @@ like the .tst file et cetera.
 
 ### Red notes:
 
-1. Use of dual screens:
+**Use of dual screens:**
 
 * Would be good if the display was split screen so we could view the .g files
 being edited in nano and what was going in the terminal at the same time.
@@ -235,7 +235,7 @@ Is it possible to have both displayed simultaneously?
 
 * It would be good to have a 2nd screen showing <unclear word> commands.
 
-2. Pace of the lesson:
+**Pace of the lesson:**
 
 * Sometimes it was hard to keep up with what was happening because
 things were taken off the screen too quickly.
@@ -250,14 +250,14 @@ discussion at the same time.
 who has not used GAP before or programmed much in general. But I will manage
 with the links to the manual and CoDiMa web links.
 
-3. Content of the lesson:
+**Content of the lesson:**
 
 * Would be good to hear about what GAP offers to someone interested in
 computation but not specifically group theory.
 
 * What about the algorithmic part? Maybe some well-known algorithms etc?
 
-4. Other:
+**Other:**
 
 * Main parts would be helpful on board to refer to.
 
@@ -267,6 +267,52 @@ computation but not specifically group theory.
 falls behind or is slow at typing
 
 * Too many feedback requests!!!
+
+## Remarks on the GAP lesson (AK)
+
+This was a beta-testing of the lesson on GAP, which I have started to develop
+under the EPSRC-funded CoDiMa project. I was inspired by other lessons, in
+particular shell and Python lesson, and built a story around a research like
+problem, showing how a GAP beginner (possibly a 1st year PhD student in algebra)
+could look for the necessary information in the system and build up their
+skills from working with command line to writing scripts, organising code into
+functions, using regression tests and using GAP as a tool to find examples and
+counterexamples.
+
+The content seemed to be well received - most of the red stickies are related to
+the pace of the lesson and the lack of the 2nd screen, but not to the content.
+The next step is to polish the beta-version of the lesson in a more collaborative
+way, and attendees were invited to practice their Git+GitHub skills by helping to
+improve the lesson and submit new issues and pull requests at
+https://github.com/alex-konovalov/gap-lesson as a kind of a post-lesson support
+that I can provide.
+
+I agree with all feedback regarding the pace of the lesson. This was the 1st time
+it is taught, and no previous timings were available. It happened that on Wednesday
+I started a bit too fast and had some spare time at the end. I will take into
+account that, and will also try to use EtherPad more proactively next time, and
+also will not switch back and forth between screens so fast if I would be teaching
+in a single projector mode (splitting screen horisontally or vertically is not a
+very good option in this case, unless you can make the font smaller to fit more
+text not losing readability). However, the links to download both files (which
+are stored in the lesson's `code` directory) were posted on EtherPad prior to
+the lesson.
+
+For the record, I'v spent 1 hour on Tuesday to cover "First session with GAP"
+and left "Some more GAP objects" for self-study. The rest ("Functions in GAP",
+"Using regression tests", "Small groups search", "Attributes and Methods" and
+then walking through http://alex-konovalov.github.io/gap-lesson/discussion.html
+and helping to customise GAP with `WriteGapIniFile`) took 3 hours on Wednesday.
+
+The lesson was not intended to cover the algorithmic part - that is planned to
+be covered later in the school which runs for 5 days and is continued after the
+Software Carpentry. The same is about what GAP offers to someone interested in
+computation but not specifically group theory - we would like to teach practical
+skills using which learners will be able to find themselves what GAP offers for
+their field and explore this efficiently. They should be able to get more information
+during the subsequent days of the school, for example at the "Bring your own problem"
+session. In the future, the may be other lessons based around other problems and
+intended for more advanced level.
 
 
 ## General remarks (AK):
