@@ -293,6 +293,10 @@ would be interested in having a version of this for the LaTeX paper
 (with images, multiple files, data files that feed into the paper,
 bibliography etc.)
 
+* Interestingly, on Wednesday learners seemed to be surprised when I have
+demonstrated how to find the 1st three lessons on the Software Carpentry
+website. Should that be emphasized better ?
+
 ## General remarks (LP):
 
 ### Make
